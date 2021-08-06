@@ -20,7 +20,7 @@ hi, i'm [Anshuman Prajapati](#), a skilled and detail-oriented individual.
 
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](mailto:anshumanprajapati2000@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 
