@@ -42,4 +42,4 @@ hi, i'm [Anshuman Prajapati](#), a skilled and detail-oriented individual.
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anshumanprajapatiap&show_icons=true&theme=gotham" alt="anshumanprajapatiap" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=anshumanprajapatiap&show_icons=true&theme=gotham" alt="anshumanprajapatiap" />
