@@ -18,7 +18,7 @@ hi, i'm [Anshuman Prajapati](#), a skilled and detail-oriented individual.
 
 
 
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="400" height="300" />
+  <!--img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="400" height="300" /-->
   
 - 💼 any freelance work? do reach, [email](mailto:anshumanprajapati2000@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
