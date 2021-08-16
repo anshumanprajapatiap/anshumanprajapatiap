@@ -38,4 +38,5 @@ hi, i'm [Anshuman Prajapati](#), a skilled and detail-oriented individual.
 📈 my github stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=anshumanprajapatiap&show_icons=true&theme=gotham" alt="anshumanprajapatiap" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanprajapatiap&layout=compact)](https://github.com/anshumanprajapatiap/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanprajapatiap&layout=compact)]
