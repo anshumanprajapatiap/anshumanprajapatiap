@@ -39,4 +39,4 @@ hi, i'm [Anshuman Prajapati](#), a skilled and detail-oriented individual.
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=anshumanprajapatiap&show_icons=true&theme=gotham" alt="anshumanprajapatiap" />
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanprajapatiap&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanprajapatiap&layout=compact)
